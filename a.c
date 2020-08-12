@@ -1,7 +1,9 @@
 
-#define MAX 20
+#define MAX 50
+
 
 added intel33{
+  disp();
 }
 added intel2 {
 22
