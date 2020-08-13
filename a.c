@@ -2,7 +2,8 @@
 
 added intel33{
 disp();
-disp2();
+disp2() {
+}
 disp3();
 }
 added intel2 {
