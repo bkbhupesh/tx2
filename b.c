@@ -2,7 +2,9 @@ included b 1 {
 added braces into b1
 }
 
-included b 2
+included b 2 {
+added braces into b2
+}
 
 included b 3
 
